@@ -1,0 +1,1 @@
+# In this project I have tried integrating flask with open cv face detection.
