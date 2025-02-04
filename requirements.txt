@@ -1,3 +1,4 @@
 flask
--e .
+opencv-python
+# -e .
 # This automatically triggers steup.py
