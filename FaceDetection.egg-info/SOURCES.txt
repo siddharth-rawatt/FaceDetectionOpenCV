@@ -1,0 +1,7 @@
+README.md
+setup.py
+FaceDetection.egg-info/PKG-INFO
+FaceDetection.egg-info/SOURCES.txt
+FaceDetection.egg-info/dependency_links.txt
+FaceDetection.egg-info/top_level.txt
+src/__init__.py
